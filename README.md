@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">management information systems student</p>
+<p align="left">Management Information Systems Student</p>
 
 ###
 
